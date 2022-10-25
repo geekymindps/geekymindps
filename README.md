@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @geekymindps
-- 👀 I’m interested in Backend Development, Web3, Vue3
+- 👀 I’m interested in Backend Development (Laravel, Nodejs), Web3, Vue3
